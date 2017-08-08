@@ -32,3 +32,8 @@ startGame()
   .then(() => alert('You win!'))
   .catch(() => alert('You lost!'));
 ```
+
+## Installing packages
+```
+npm i -S mocha nodemon mongoose 
+```
